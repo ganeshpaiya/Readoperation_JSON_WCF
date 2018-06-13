@@ -1,0 +1,10 @@
+C:\Users\Ganesh\Desktop\ASPDOTNET_webapi\CURD_JSON_WCF\CURD_JSON_WCF\bin\CURD_JSON_WCF.dll.config
+C:\Users\Ganesh\Desktop\ASPDOTNET_webapi\CURD_JSON_WCF\CURD_JSON_WCF\bin\CURD_JSON_WCF.dll
+C:\Users\Ganesh\Desktop\ASPDOTNET_webapi\CURD_JSON_WCF\CURD_JSON_WCF\bin\CURD_JSON_WCF.pdb
+C:\Users\Ganesh\Desktop\ASPDOTNET_webapi\CURD_JSON_WCF\CURD_JSON_WCF\bin\EntityFramework.dll
+C:\Users\Ganesh\Desktop\ASPDOTNET_webapi\CURD_JSON_WCF\CURD_JSON_WCF\bin\EntityFramework.SqlServer.dll
+C:\Users\Ganesh\Desktop\ASPDOTNET_webapi\CURD_JSON_WCF\CURD_JSON_WCF\bin\EntityFramework.xml
+C:\Users\Ganesh\Desktop\ASPDOTNET_webapi\CURD_JSON_WCF\CURD_JSON_WCF\bin\EntityFramework.SqlServer.xml
+C:\Users\Ganesh\Desktop\ASPDOTNET_webapi\CURD_JSON_WCF\CURD_JSON_WCF\obj\Debug\CURD_JSON_WCF.csprojResolveAssemblyReference.cache
+C:\Users\Ganesh\Desktop\ASPDOTNET_webapi\CURD_JSON_WCF\CURD_JSON_WCF\obj\Debug\CURD_JSON_WCF.dll
+C:\Users\Ganesh\Desktop\ASPDOTNET_webapi\CURD_JSON_WCF\CURD_JSON_WCF\obj\Debug\CURD_JSON_WCF.pdb
